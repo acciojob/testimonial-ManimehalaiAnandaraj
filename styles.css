@@ -9,9 +9,10 @@
 }
 #my{
 	background-color:white;
-	height:50px;
+	height:20px;
 	width:450px;
 	/*border:1px solid black;*/
+	padding-bottom:10px;
 	font-size:12px;
 	
 }
@@ -20,7 +21,20 @@
 	width:300px;
 	background-color:white;
 	/*border:1px;*/
+	font-size:10px;}
+.author{
+	text-align:right;
+	font-style:italic;
+	font-size:12px;
+	background-color:white;
+	height:20px;
+
+}
+.author1{
+	background-color:white;
+	text-align:right;
+	font-style:italic;
+	height:20px;
+	width:450px;
 	font-size:10px;
-	
-	
 }
